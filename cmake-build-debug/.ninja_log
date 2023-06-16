@@ -1,0 +1,6 @@
+# ninja log v5
+21	510	7086280275360363	CMakeFiles/PA_3.dir/prog3.cpp.obj	c9a1c890952d8e1e
+15	513	7086280275400384	CMakeFiles/PA_3.dir/val.cpp.obj	be0e0a6fd2286c79
+1	612	7086280276400547	CMakeFiles/PA_3.dir/lex.cpp.obj	7cba95839cba378e
+9	886	7086280279151029	CMakeFiles/PA_3.dir/parseInt.cpp.obj	87be6fd1effb7d3f
+886	1086	7086280281121374	PA_3.exe	dfeb45034c212163
