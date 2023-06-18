@@ -1,4 +1,4 @@
-# CS280 Interpreter Project
+# Interpreter Project
 
 This GitHub repository represents the culmination of several distinct projects undertaken throughout the FALL 2022 semester to develop a comprehensive interpreter for a simple programming language.
 
